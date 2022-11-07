@@ -1,6 +1,6 @@
 </p>
 <p align="center"> <img src="https://gpvc.arturio.dev/Hotdog999" alt="Hotdog999" /> </p>
-[![Hits](http://hits.dwyl.com/Hazza3100/Hazza3100.svg)](http://hits.dwyl.com/Hazza3100/Hazza3100)
+[![Hits]]((https://github.com/Hotdog999)
 
 <!-- <p align="center"> <img src="https://gpvc.arturio.dev/Hazza3100" alt="Hazza3100" /> </p> -->
 
