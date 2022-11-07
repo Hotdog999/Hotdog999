@@ -6,10 +6,10 @@
 
 ![Header](./header.png)
 
-- 👋 discord.gg/phts
+- 👋 https://discord.gg/VtDCw4Bzvj
 
 C͟o͟n͟t͟a͟c͟t͟
-- 📫 Reach me at: !Hazza#0001
+- 📫 Reach me at: !hotdog#7251
 
 
 A͟b͟o͟u͟t͟ ͟m͟e͟
