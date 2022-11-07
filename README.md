@@ -16,19 +16,11 @@ A͟b͟o͟u͟t͟ ͟m͟e͟
 - 🌱 Language: Swedish
 - 👀 Interested in coding py
 
-<p href="Hotdog" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/997512351760789507/>
-</p>
-
 <h1 align="center">Stats</h1>
 <a href="https://github.com/Hazza3100"></a>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hazza3100&theme=midnight-purple&show_icons=true" />
 </p>
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hazza3100&theme=midnight-purple&show_icons=true)
- -->
-
 
 ![Footer](./footer.png)
 
