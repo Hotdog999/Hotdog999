@@ -13,7 +13,7 @@ C͟o͟n͟t͟a͟c͟t͟
 
 A͟b͟o͟u͟t͟ ͟m͟e͟
 - 🌱 Language: Swedish
-- 👀 Interested in coding py
+- 👀 Interested in coding py, css, httml,java
 - 🔔 Credits go to !Hazza#0001 for giving this read me out.
 
 ![footer](https://user-images.githubusercontent.com/117574274/200358995-30cabb38-f5ac-4952-abd4-5b0763d38b54.png)
