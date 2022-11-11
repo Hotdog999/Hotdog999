@@ -8,7 +8,7 @@
 - 👋 https://discord.gg/VtDCw4Bzvj
 
 C͟o͟n͟t͟a͟c͟t͟
-- 📫 Reach me at: !hotdog#7251
+- 📫 Reach me at: !hotdog2960 old account - !hotdog#7251 (termed)
 
 
 A͟b͟o͟u͟t͟ ͟m͟e͟
